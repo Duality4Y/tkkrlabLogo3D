@@ -1,1 +1,1 @@
-linear_extrude(file = "TkkrLab_logo_groot_alphas.dxf", height = 10,width = 10, center = true); 
+resize([3.5,4,4]); linear_extrude(file = "TkkrLab_logo_groot_alphas.dxf",height=1); 
